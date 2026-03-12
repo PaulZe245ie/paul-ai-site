@@ -1,7 +1,6 @@
 import { posts } from "@/data/posts";
 
 export default function PostsPage() {
-
   return (
     <main style={{ padding: "40px", fontFamily: "sans-serif" }}>
       <h1>Posts</h1>
